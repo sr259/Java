@@ -1,0 +1,4 @@
+1. search - when two items with similar Publisher names were added to the catalog, it did not return anything.
+2. remove - when an item is checked out, the remove method shouldn't be able to remove the item
+3. checkin -  doesn't checkin a checked out item
+4. checkout - checks out an already checked out item, shouldn't be able to do that
