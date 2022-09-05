@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScoreBoardTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-27T01:57:52" hostname="DESKTOP-F0J8AC6" time="0.002">
+  <properties/>
+  <testcase name="testGettingScore" classname="ScoreBoardTest" time="0.001"/>
+  <testcase name="testAddingHighScore" classname="ScoreBoardTest" time="0.0"/>
+  <testcase name="testSortingBoard" classname="ScoreBoardTest" time="0.001"/>
+  <system-out><![CDATA[Adding score
+Adding score
+Adding score
+Adding score
+Returning scores
+Name
+Adding score
+Adding score
+Adding score
+Adding score
+Adding score
+Adding score
+Adding score
+Adding score
+Name
+Name
+Name
+Name
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

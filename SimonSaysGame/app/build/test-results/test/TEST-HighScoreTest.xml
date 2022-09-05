@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HighScoreTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-27T01:57:52" hostname="DESKTOP-F0J8AC6" time="0.008">
+  <properties/>
+  <testcase name="testAlterName" classname="HighScoreTest" time="0.007"/>
+  <testcase name="testGettingName" classname="HighScoreTest" time="0.0"/>
+  <testcase name="testSettingScore" classname="HighScoreTest" time="0.0"/>
+  <system-out><![CDATA[Adding one to score
+Adding one to score
+Adding one to score
+Returning score
+Setting name
+Name
+Adding one to score
+Adding one to score
+Adding one to score
+Returning score
+Name
+Adding one to score
+Adding one to score
+Adding one to score
+Returning score
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

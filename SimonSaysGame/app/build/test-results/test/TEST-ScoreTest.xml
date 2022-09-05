@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScoreTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-27T01:57:52" hostname="DESKTOP-F0J8AC6" time="0.001">
+  <properties/>
+  <testcase name="testScoreClearing" classname="ScoreTest" time="0.001"/>
+  <testcase name="testScoreStartAtZero" classname="ScoreTest" time="0.0"/>
+  <testcase name="testScoreAdding" classname="ScoreTest" time="0.0"/>
+  <system-out><![CDATA[Adding one to score
+Adding one to score
+Adding one to score
+Setting score to zero
+Returning score
+Returning score
+Adding one to score
+Returning score
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

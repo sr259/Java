@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SquareTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-04-27T01:57:52" hostname="DESKTOP-F0J8AC6" time="0.002">
+  <properties/>
+  <testcase name="testSetLightSpeed" classname="SquareTest" time="0.0"/>
+  <testcase name="testSize" classname="SquareTest" time="0.0"/>
+  <testcase name="testUnclicked" classname="SquareTest" time="0.001"/>
+  <testcase name="testLightUpStatus" classname="SquareTest" time="0.0"/>
+  <testcase name="testLightSpeed" classname="SquareTest" time="0.0"/>
+  <testcase name="testLightUp" classname="SquareTest" time="0.001"/>
+  <testcase name="testClicked" classname="SquareTest" time="0.0"/>
+  <testcase name="testSetSize" classname="SquareTest" time="0.0"/>
+  <system-out><![CDATA[Setting light speed
+Get the light speed
+Getting square size
+setting click value to true
+Setting click value to false
+Returning click value
+Lighting up square
+Square flashes off
+Get the light speed
+Lighting up square
+Returning click value
+setting click value to true
+Returning click value
+Setting square size
+Getting square size
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
